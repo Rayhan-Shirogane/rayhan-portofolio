@@ -1,0 +1,30 @@
+[
+    {
+        "company": "UKM Pengembangan Pengetahuan Politeknik Negeri Semarang",
+		"logo":"images/logopp.png",
+        "position": "Departement Karya Ilmiah",
+        "year": "2022 - 2025",
+        "description": "During my time as a member of the Student Activity Unit (UKM) for Knowledge Development in the Department of Scientific Work, I was actively involved in various activities related to the development of interests and talents in the field of scientific writing. In this organization, I not only played a role as a participant in scientific writing competitions, but also participated in the in-depth creative and analytical process in compiling scientific works, both individually and in teams. These activities broadened my insight into current scientific issues and trained my critical thinking skills and written communication."
+    },
+	{
+        "company": "Inovokasi",
+		"logo":"images/inovokasi.png",
+        "position": "lecturer project",
+        "year": "2023 - 2024",
+        "description": "I participated in the Dikti Vocational Innovation Program by developing a Smart Cooling and Cleaning Solar Panel tool with a supervisor. This project uses Raspberry Pi to automate the process of cooling and cleaning solar panels. During that time, I was responsible for creating and managing database sensors, recording data such as temperature, humidity, and light intensity to support IoT-based automated decision making. This experience honed my skills in data management and technology application for industrial needs."
+    },
+    {
+        "company": "Bima",
+		"logo":"images/Bima.png",
+        "position": "lecturer project",
+        "year": "2023 - 2024",
+        "description": "I am involved in the BIMA Program as part of a research team working with a supervisor. In this program, we developed a portable version of the Smart Cooling and Cleaning Solar Panel tool, designed to maintain the efficiency of solar panels through an automatic cleaning and cooling system based on Raspberry Pi."
+    },
+	{
+        "company": "Omah IoT",
+		"logo":"images/omahiot.png",
+        "position": "industrial internship",
+        "year": "2014",
+        "description": "During my internship at CV. OmahIoT, I was primarily involved in programming IoT prototypes. My main project was developing an automatic irrigation system, where I coded the controller to activate a water pump based on soil moisture sensor data. I also contributed to other IoT projects, gaining hands-on experience with ESP32, sensors, actuators, and relay modules. This opportunity deepened my understanding of IoT technology and automation, and taught me how to implement code into real-world applications. Overall, this experience was a valuable step forward in developing my skills and preparing me for future challenges in the field of IoT."
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "name": "Rayhan Malika Ramadhani - Electronic Engineering",
+    "description": "I am a dedicated Electronic Engineer with expertise in embedded system design, microcontroller-based automation (ESP32, Arduino, Raspberry Pi), and sensor and actuator integration for IoT-based solutions. Having experience in hardware development, embedded system programming (C/C++/Python), and PCB design using software such as KiCad and EasyEDA. Experienced in handling practical projects such as PZEM-based energy measurement, temperature & air quality monitoring systems, and MQTT and PID-based automatic control systems. I am also accustomed to working in cross-disciplinary teams, managing technical documentation, and delivering work results in the form of a user-friendly dashboard or HMI interface.",
+    "profileImage": "images/Rayhan1.png",
+    "email": "rayhanmalika201004@gmail.com",
+    "phone": "+62 (822) 232-70091",
+    "socialMedia": [
+      { "platform": "Github",
+            "url": "https://github.com/Rayhan-Shirogane/rayhan-portofolio"
+    },
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rayhan-malika-44b3242a6/"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://r.search.yahoo.com/_ylt=AwrO_I5hLFBowxYRGwBXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1751294305/RO=10/RU=https%3a%2f%2fwww.instagram.com%2frayh_anmalika%2f/RK=2/RS=X4lIKxpRIJ7_yUvTKt1vfAuobew-"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV RAYHAN MALIKA.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+      {"name": "Maintenance Engineering", "icon": "fas fa-tools", "level": 75},
+    {"name": "PCB Design", "icon": "fas fa-microchip", "level": 75},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+    {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 60},
+    {"name": "Web Programming", "icon": "fab fa-js", "level": 50},
+	{"name": "Microsoft Office", "icon": "fas fa-microsoft office", "level": 80},
+	{"name": "Fotographer", "icon": "fas fa-camera", "level": 80},
+    {"name": "Videographer", "icon": "fas fa-video", "level": 80},
+    {"name": "Editing Video & Foto", "icon": "fas fa-computer", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level":70}
+    ]
+}

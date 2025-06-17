@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Innovation of Polines and PT Sogy Energy Indonesia, Create Smart Cooling Solution for Efficient Photovoltaics",
+        "year": "2024",
+        "partner": "PT Sogy Energy Indonesia.",
+        "role": "Project Lead",
+        "description": "Implementing automatic panel cleaning and cooling, increasing panel working efficiency by up to 20% while increasing partner income.",
+        "image": "images/Inovokasi.jpg",
+        "link": "https://www.realtimes.id/news/20749769/inovasi-polines-dan-pt-sogy-energy-indonesia-ciptakan-smart-cooling-solution-for-efficient-photovoltaic"
+    },
+	{
+        "title": "Collaboration between Polines and PT Sogy Energy Indonesia Presents Innovation to Increase Rooftop Solar Panel Efficiency",
+        "year": "2024",
+        "partner": "PT Sogy Energy Indonesia & Polines.",
+        "role": "Project Lead",
+        "description": "Research to test how effective a panel cleaner is using pid system control.",
+        "image": "images/Bima1.jpg",
+        "link": "https://jateng.pikiran-rakyat.com/pendidikan/pr-3738859156/kolaborasi-polines-dan-pt-sogy-energy-indonesia-hadirkan-inovasi-tingkatkan-efisiensi-panel-surya-rooftop"
+    },
+    {
+        "title": "Sertification Advantech IoT Academy",
+        "year": "2024",
+        "partner": "CV Efortech",
+        "role": "sertification",
+        "image": "images/efortech.jpg",
+        "description": "Using Advantech as an IoT platform and implementing it in the industrial",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Win the 2023 Village Empowerment and Development Program Innovation Competition",
+        "year": "2023",
+        "partner": "Yogyakarta State University",
+        "role": "Competition",
+        "description": "Create innovations for village development through technological advances by utilizing the potential of the village itself.",
+        "image": "images/LIP3D.jpg",
+        "link": "https://www.instagram.com/p/C1pKLw7SH3B/?igsh=MXN5NmpyNG5wYTlkcA=="
+    },
+
+	{
+        "title": "Second Place in Indonesian Student Entrepreneurship Innovation Competition",
+        "year": "2024",
+        "partner": "Yogyakarta State University",
+        "role": "Competition",
+        "description": "Innovation in making goods from low-value materials is a creative and value-added effort, namely changing waste or cheap materials into useful, unique, and more valuable products. This step not only supports waste reduction and resource conservation, but also opens up business opportunities, improves the economy, and makes a positive contribution to society.",
+        "image": "images/Likmi.jpg",
+        "link": "https://www.instagram.com/p/C4N1CVdSxIL/?igsh=MXVuazBjenZueXg4dw=="
+    },
+    	{
+        "title": "IoT based automatic watering prototype",
+        "year": "2023",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Prototype",
+        "description": "This project is a prototype of a smart irrigation system using a soil moisture sensor and a 12V mini water pump. The system reads soil moisture levels in real-time and displays the data on an LCD. When the soil is dry, the pump activates automatically to water the plant. It aims to support efficient water use and promote smart farming solutions.",
+        "image": "images/dpe.jpg",
+        "link": "https://www.instagram.com/p/C4N1CVdSxIL/?igsh=MXVuazBjenZueXg4dw=="
+    }
+
+
+]
