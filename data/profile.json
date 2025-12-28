@@ -1,7 +1,7 @@
 {
     "name": "Rayhan Malika Ramadhani - Electronic Engineering",
     "description": "I am a dedicated Electronic Engineer with expertise in embedded system design, microcontroller-based automation (ESP32, Arduino, Raspberry Pi), and sensor and actuator integration for IoT-based solutions. Having experience in hardware development, embedded system programming (C/C++/Python), and PCB design using software such as KiCad and EasyEDA. Experienced in handling practical projects such as PZEM-based energy measurement, temperature & air quality monitoring systems, and MQTT and PID-based automatic control systems. I am also accustomed to working in cross-disciplinary teams, managing technical documentation, and delivering work results in the form of a user-friendly dashboard or HMI interface.",
-    "profileImage": "3.32.22.0.17.jpg",
+    "profileImage": "images/3.32.22.0.17.jpg",
     "email": "rayhanmalika201004@gmail.com",
     "phone": "+62 (822) 232-70091",
     "socialMedia": [
@@ -36,4 +36,5 @@
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level":70}
     ]
 }
+
 
